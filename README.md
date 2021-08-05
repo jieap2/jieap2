@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jieap2
+- 👋 Hi, I’m Jithin Eapen @jieap2
 - 👀 I’m interested in exploring Tech and mordernize existing solutions
 - 🌱 I’m currently learning Improvising Cloud solutions wiht Java
 - 💞️ I’m looking to collaborate on ...
